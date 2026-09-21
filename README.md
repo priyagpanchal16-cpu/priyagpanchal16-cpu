@@ -41,6 +41,17 @@ class Priya {
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyagpanchal16-cpu&bg_color=0d1117&color=c9d1d9&line=00E5A0&point=00ffa3&area=true&hide_border=true&area_color=003d2e" />
 
+<br>
+
+<div align="center">
+
+<img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=priyagpanchal16-cpu&theme=chartreuse-dark" />
+<img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=priyagpanchal16-cpu&theme=chartreuse-dark" />
+<img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=priyagpanchal16-cpu&theme=chartreuse-dark" />
+
+</div>
+
+
 </div>
 
 <br>
@@ -55,7 +66,7 @@ class Priya {
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=chartreuse-dark" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=chartreuse-dark&quote=Talk%20is%20cheap.%20Show%20me%20the%20code.&author=Linus%20Torvalds" />
 
 <br><br>
 
