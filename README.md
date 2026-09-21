@@ -63,6 +63,43 @@
 
 <div align="center">
 
+### 🌊 Contribution activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=priyagpanchal16-cpu&bg_color=1a1a2e&color=e0e0ff&line=A855F7&point=FF6B6B&area=true&hide_border=true&area_color=8E2DE2" />
+
+</div>
+
+<br>
+
+### 🏆 Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=priyagpanchal16-cpu&theme=tokyonight&no-frame=true&no-bg=true&column=7" />
+
+</div>
+
+<br>
+
+### 💬 A thought for the day
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=priyagpanchal16-cpu&color=A855F7&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
+
+</div>
+
+<br>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=100&section=footer" />
 
 </div>
