@@ -8,15 +8,21 @@
 
 <br>
 
-```cpp
-// A little about me, in my favourite language
-class Priya {
-    std::string studying = "BSc (Computer Applications)";
-    std::string learning = "backend development";
-    std::vector<std::string> stack = {"Base44", "Claude", "C++", "Python"};
-    std::string philosophy = "have the idea, let AI handle the grind, ship it";
-};
-```
+### ✨ About me
+
+<div align="center">
+
+![Degree](https://img.shields.io/badge/🎓_DEGREE-BSc(CA)-FF8FC7?style=for-the-badge&labelColor=1a1420)
+![Focus](https://img.shields.io/badge/🧠_FOCUS-BACKEND%20DEV-9D7BD8?style=for-the-badge&labelColor=1a1420)
+![Builds](https://img.shields.io/badge/🤖_BUILDS%20WITH-Base44%20%2B%20Claude-00C9A7?style=for-the-badge&labelColor=1a1420)
+![Status](https://img.shields.io/badge/🚀_STATUS-LEARNING%20%26%20SHIPPING-FF6B6B?style=for-the-badge&labelColor=1a1420)
+![Vibe](https://img.shields.io/badge/💗_VIBE-CURIOUS%20%26%20HAVING%20FUN-FFD93D?style=for-the-badge&labelColor=1a1420)
+
+</div>
+
+<br>
+
+
 
 <br>
 
